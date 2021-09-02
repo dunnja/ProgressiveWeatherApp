@@ -1,8 +1,10 @@
-#Progressive Weather App#
+Progressive Weather App
+===
 
 I have built this application to showcase a typical weather app but as a Progressive Web App. It passes all of the Google "Lighthouse" tests for a PWA and is fully downloadable to your desktop
 
-##What I have Learned##
+What I have Learned
+---
 
 By creating this application I have not just learned some syntax in React, but important additional skills such as folder structure. However, the most important skill I have learned and hopefully demonstrated in this project are the skills surrounding turning a App into a PWA. This includes the use of a Service Worker to allow offline access to cached events, and a manifest.json file to provide data regarding the application. 
 
