@@ -1,7 +1,7 @@
 Progressive Weather App
 ===
 
-I have built this application to showcase a typical weather app but as a Progressive Web App. It passes all of the Google "Lighthouse" tests for a PWA and is fully downloadable to your desktop
+I have built this application to showcase a typical weather app but as a Progressive Web App. It passes all of the Google "Lighthouse" tests for a PWA and is fully downloadable to your desktop. It is written in JavaScript using the React library, connecting to the Open Weather Map API in order to pull relevant data on the weather in any city or town the user chooses. 
 
 What I have Learned
 ---
